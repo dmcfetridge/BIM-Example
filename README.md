@@ -1,5 +1,5 @@
 # BIM-Example
-Revit Custom Addins
+WesexRibbon - Revit Custom Addin
 
 ## Synopsis
 
